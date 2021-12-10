@@ -14,6 +14,7 @@
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=green&style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=blue&style=flat&logo=mysql&logoColor=white)<!-- Tools -->
 ![](https://img.shields.io/static/v1?label=Tools&message=PostGreSQL&color=blue&style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/static/v1?label=Tools&message=Git&color=blue&style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash&logoColor=white)<!-- Shell -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)<!-- Editors -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
