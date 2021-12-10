@@ -12,7 +12,7 @@
 ![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash)
 <!-- Editors -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=yellow&style=flat&logo=intellijidea)
-![](https://img.shields.io/static/v1?label=Editor&message=Visual_Studio_Code&color=yellow&style=flat&logo=visualstudiocode)
+![](https://img.shields.io/static/v1?label=Editor&message="Visual Studio Code"&color=yellow&style=flat&logo=visualstudiocode)
 
 <!--
 **luigi989/luigi989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
