@@ -7,7 +7,7 @@
 <!-- Tools -->![](https://img.shields.io/static/v1?label=Tools&message=PostGreSQL&color=blue&style=flat&logo=postgresql)
 <!-- Shell -->![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash)
 <!-- Editors -->![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=yellow&style=flat&logo=intellijidea)
-<!-- Editors -->![](https://img.shields.io/static/v1?label=Editor&message=Visual Studio Code&color=yellow&style=flat&logo=visualstudiocode)
+<!-- Editors -->![](https://img.shields.io/static/v1?label=Editor&message=Visual_Studio_Code&color=yellow&style=flat&logo=visualstudiocode)
 ![](https://img.shields.io/badge/language%20-visual%20studio-red)
 
 <!--
