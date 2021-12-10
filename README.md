@@ -1,4 +1,11 @@
 ### Hi there 👋
+<!-- Simple-icons 
+  Space - %20
+  Simple layout without icon
+    ![](https://img.shields.io/badge/Editor%20-Visual%20Studio%20Code-red)
+  Simple layout with icon
+    ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
+-->
 <!-- Operative system -->
 [](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=important&style=flat&logo=windows)
@@ -13,7 +20,6 @@
 <!-- Editors -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
-![](https://img.shields.io/badge/Editor%20-Visual%20Studio%20Code-red)
 
 <!--
 **luigi989/luigi989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
