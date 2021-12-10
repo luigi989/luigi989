@@ -13,7 +13,7 @@
 <!-- Editors -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=yellow&style=flat&logo=intellijidea)
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual_Studio_Code&color=yellow&style=flat&logo=visualstudiocode)
-![](https://img.shields.io/badge/language%20-visual%20studio-red)
+![](https://img.shields.io/badge/Editor%20-Visual%20Studio%20Code-red)
 
 <!--
 **luigi989/luigi989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
