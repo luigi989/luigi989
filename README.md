@@ -9,7 +9,7 @@
 <!-- Operative system -->
 [](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=important&style=flat&logo=windows)
-<!-- Languages -->![](https://img.shields.io/static/v1?label=Code&message=Java&color=green&style=flat&logo=java)
+![](https://img.shields.io/static/v1?label=Code&message=Java&color=green&style=flat&logo=java)<!-- Languages -->
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=green&style=flat&logo=react)
 <!-- Tools -->
 ![](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=blue&style=flat&logo=mysql)
