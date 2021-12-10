@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://img.shields.io/static/v1?label=<OS>&message=<Linux>&color=<important>)
+
 <!--
 **luigi989/luigi989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
