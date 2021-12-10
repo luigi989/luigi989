@@ -11,8 +11,8 @@
 <!-- Shell -->
 ![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash)
 <!-- Editors -->
-![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=yellow&style=flat&logo=intellijidea)
-![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio20Code&color=yellow&style=flat&logo=visualstudiocode)
+![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)
+![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 ![](https://img.shields.io/badge/Editor%20-Visual%20Studio%20Code-red)
 
 <!--
