@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!-- Operative system -->![](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)
+[](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)
 <!-- Operative system -->![](https://img.shields.io/static/v1?label=OS&message=Windows&color=important&style=flat&logo=windows)
 <!-- Programming languages -->![](https://img.shields.io/static/v1?label=Code&message=Java&color=green&style=flat&logo=java)
 <!-- Programming languages -->![](https://img.shields.io/static/v1?label=Code&message=React&color=green&style=flat&logo=react)
