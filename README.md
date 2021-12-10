@@ -6,18 +6,14 @@
   Simple layout with icon
     ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 -->
-<!-- Operative system -->
-[](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)
+[](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)<!-- Operative system -->
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=important&style=flat&logo=windows)
 ![](https://img.shields.io/static/v1?label=Code&message=Java&color=green&style=flat&logo=java)<!-- Languages -->
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=green&style=flat&logo=react)
-<!-- Tools -->
-![](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=blue&style=flat&logo=mysql)
+![](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=blue&style=flat&logo=mysql)<!-- Tools -->
 ![](https://img.shields.io/static/v1?label=Tools&message=PostGreSQL&color=blue&style=flat&logo=postgresql)
-<!-- Shell -->
-![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash)
-<!-- Editors -->
-![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)
+![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash)<!-- Shell -->
+![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)<!-- Editors -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 
 <!--
