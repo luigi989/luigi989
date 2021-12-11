@@ -1,4 +1,4 @@
-## About me
+## :notebook:About me
 I am currently studying Computer Science.  
 
 ## :wrench: Technologies & Tools
@@ -20,7 +20,7 @@ I am currently studying Computer Science.
 ![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)<!-- Editors -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 
-## Interests 
+## :books: Interests 
 :desktop_computer: PC related stuff
 
 :climbing: Climbing
