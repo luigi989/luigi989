@@ -1,4 +1,4 @@
-## :notebook:About me
+## :notebook: About me
 I am currently studying Computer Science.  
 
 ## :wrench: Technologies & Tools
