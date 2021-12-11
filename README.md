@@ -1,5 +1,6 @@
-### Hi there 👋
-<!-- Technologies & Tools -->
+## About me
+I am currently studying Computer Science.  
+
 ## :wrench: Technologies & Tools
 <!-- Simple-icons 
   Space - %20
@@ -18,6 +19,12 @@
 ![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash&logoColor=white)<!-- Shell -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)<!-- Editors -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
+
+## Interests 
+:desktop_computer: PC related stuff
+:climbing: Climbing
+:field_hockey: Field hockey
+:tennis: Squash
 
 <!--
 **luigi989/luigi989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
