@@ -21,10 +21,13 @@ I am currently studying Computer Science.
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 
 ## Interests 
-- :desktop_computer: PC related stuff
-- :climbing: Climbing
-- :field_hockey: Field hockey
-- :tennis: Squash
+:desktop_computer: PC related stuff
+
+:climbing: Climbing
+
+:field_hockey: Field hockey
+
+:tennis: Squash
 
 <!--
 **luigi989/luigi989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
