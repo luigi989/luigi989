@@ -9,7 +9,7 @@ I am currently studying Computer Science.
   Simple layout with icon
     ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 -->
-[](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)<!-- Operative system -->
+![](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux)<!-- Operative system -->
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=important&style=flat&logo=windows)
 ![](https://img.shields.io/static/v1?label=Code&message=Java&color=green&style=flat&logo=java)<!-- Languages -->
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=green&style=flat&logo=react&logoColor=white)
