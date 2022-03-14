@@ -29,13 +29,8 @@ Hello! I am currently studying towards a Master in Computer Science. I also has 
 
 :tennis: Squash
 
-
-<a href="https://github.com/luigi989">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigi989&hide=CSS,SASS,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/luigi989">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luigi989&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ludvig's GitHub Stats" />
-</a>
+![Ludvig's github stats](https://github-readme-stats.vercel.app/api?username=luigi989&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
