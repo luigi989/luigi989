@@ -1,5 +1,5 @@
 ## :notebook: About me
-I am currently studying Computer Science.  
+Hello! I am currently studying towards a Master in Computer Science. I also has some small code side projects in areas that interests me. 
 
 ## :wrench: Technologies & Tools
 <!-- Simple-icons 
