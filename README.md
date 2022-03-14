@@ -30,7 +30,7 @@ Hello! I am currently studying towards a Master in Computer Science. I also has 
 :tennis: Squash
 
 ![Ludvig's github stats](https://github-readme-stats.vercel.app/api?username=luigi989&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,sass)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
