@@ -1,7 +1,11 @@
 ## :notebook: About me
 Hello! I am currently studying towards a Master in Computer Science. I also has some small code side projects in areas that interests me. 
+For now my current project that I try to finish is a portfolio website where I showcase my experience and projects.
 
-## :wrench: Technologies & Tools
+
+## :rocket: Languages & Tools
+This is the languages and tools I use the most and have most knowledge about.
+
 <!-- Simple-icons 
   Space - %20
   Simple layout without icon
@@ -9,18 +13,27 @@ Hello! I am currently studying towards a Master in Computer Science. I also has 
   Simple layout with icon
     ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 -->
-![](https://img.shields.io/static/v1?label=OS&message=Linux&color=important&style=flat&logo=linux&logoColor=white)<!-- Operative system -->
-![](https://img.shields.io/static/v1?label=OS&message=Windows&color=important&style=flat&logo=windows)
-![](https://img.shields.io/static/v1?label=Code&message=Java&color=green&style=flat&logo=java)<!-- Languages -->
-![](https://img.shields.io/static/v1?label=Code&message=React&color=green&style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=blue&style=flat&logo=mysql&logoColor=white)<!-- Tools -->
-![](https://img.shields.io/static/v1?label=Tools&message=PostGreSQL&color=blue&style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/static/v1?label=Tools&message=Git&color=blue&style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=yellowgreem&style=flat&logo=gnubash&logoColor=white)<!-- Shell -->
-![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=red&style=flat&logo=intellijidea)<!-- Editors -->
-![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 
-## :books: Interests 
+### Languages
+
+![](https://img.shields.io/static/v1?label=Code&message=React&color=darkgreen&style=flat&logo=react&logoColor=white) <!-- React -->
+![](https://img.shields.io/static/v1?label=Code&message=Java&color=darkgreen&style=flat&logo=java) <!-- Java -->
+![](https://img.shields.io/static/v1?label=Code&message=Flutter&color=orange&style=flat&logo=Flutter&logoColor=white) <!-- Flutter -->
+![](https://img.shields.io/static/v1?label=Code&message=Dart&color=orange&style=flat&logo=Dart&logoColor=white) <!-- Dart -->
+
+![](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=blue&style=flat&logo=mysql&logoColor=white) <!-- MySql -->
+![](https://img.shields.io/static/v1?label=Tools&message=PostGreSQL&color=blue&style=flat&logo=postgresql&logoColor=white) <!-- Postgresql -->
+### Tools
+
+![](https://img.shields.io/static/v1?label=Tools&message=Git&color=lightblue&style=flat&logo=git&logoColor=white) <!-- Git -->
+![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=lightgreen&style=flat&logo=gnubash&logoColor=white) <!-- Bash -->
+![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=darkred&style=flat&logo=visualstudiocode) <!-- VS Code -->
+![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=darkred&style=flat&logo=intellijidea) <!-- Intellij -->
+
+![](https://img.shields.io/static/v1?label=OS&message=Linux&color=purple&style=flat&logo=linux&logoColor=white) <!-- Linux -->
+![](https://img.shields.io/static/v1?label=OS&message=Windows&color=purple&style=flat&logo=windows) <!-- Windows -->
+
+## :books: Other interests 
 :desktop_computer: PC related stuff
 
 :climbing: Climbing
@@ -29,6 +42,7 @@ Hello! I am currently studying towards a Master in Computer Science. I also has 
 
 :tennis: Squash
 
+## Github statistics
 ![Ludvig's github stats](https://github-readme-stats.vercel.app/api?username=luigi989&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigi989&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,sass)](https://github.com/luigi989/github-readme-stats)
 
@@ -42,18 +56,3 @@ Hello! I am currently studying towards a Master in Computer Science. I also has 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
  -->
-
-<!--
-**luigi989/luigi989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
