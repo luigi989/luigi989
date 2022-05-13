@@ -21,8 +21,8 @@ This is the languages and tools I use the most and have most knowledge about.
 ![](https://img.shields.io/static/v1?label=Code&message=Flutter&color=orange&style=flat&logo=Flutter&logoColor=white) <!-- Flutter -->
 ![](https://img.shields.io/static/v1?label=Code&message=Dart&color=orange&style=flat&logo=Dart&logoColor=white) <!-- Dart -->
 
-![](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=blue&style=flat&logo=mysql&logoColor=white) <!-- MySql -->
-![](https://img.shields.io/static/v1?label=Tools&message=PostGreSQL&color=blue&style=flat&logo=postgresql&logoColor=white) <!-- Postgresql -->
+![](https://img.shields.io/static/v1?label=Database&message=MySQL&color=blue&style=flat&logo=mysql&logoColor=white) <!-- MySql -->
+![](https://img.shields.io/static/v1?label=Database&message=PostGreSQL&color=blue&style=flat&logo=postgresql&logoColor=white) <!-- Postgresql -->
 ### Tools
 
 ![](https://img.shields.io/static/v1?label=Tools&message=Git&color=lightblue&style=flat&logo=git&logoColor=white) <!-- Git -->
