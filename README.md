@@ -25,10 +25,12 @@ This is the languages and tools I use the most and have most knowledge about.
 ![](https://img.shields.io/static/v1?label=Database&message=PostGreSQL&color=blue&style=flat&logo=postgresql&logoColor=white) <!-- Postgresql -->
 ### Tools
 
-![](https://img.shields.io/static/v1?label=Tools&message=Git&color=lightblue&style=flat&logo=git&logoColor=white) <!-- Git -->
-![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=lightgreen&style=flat&logo=gnubash&logoColor=white) <!-- Bash -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=darkred&style=flat&logo=visualstudiocode) <!-- VS Code -->
 ![](https://img.shields.io/static/v1?label=Editor&message=Intellij&color=darkred&style=flat&logo=intellijidea) <!-- Intellij -->
+![](https://img.shields.io/static/v1?label=Editor&message=Android%20Studio&color=darkred&style=flat&logo=Android%20Studio&logoColor=white) <!-- Android Studio -->
+
+![](https://img.shields.io/static/v1?label=Tools&message=Git&color=lightblue&style=flat&logo=git&logoColor=white) <!-- Git -->
+![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=lightgreen&style=flat&logo=gnubash&logoColor=white) <!-- Bash -->
 
 ![](https://img.shields.io/static/v1?label=OS&message=Linux&color=purple&style=flat&logo=linux&logoColor=white) <!-- Linux -->
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&color=purple&style=flat&logo=windows) <!-- Windows -->
