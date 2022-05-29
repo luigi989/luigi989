@@ -50,8 +50,6 @@ This is the languages and tools I use the most and have most knowledge about.
 
 ## Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludde.lindahl@gmail.com) <!-- Gmail -->
-[![Facebook Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/ludvig.lindahl.1) <!-- Facebook Messenger -->
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/46705789618) <!-- Whatsapp -->
 
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
