@@ -48,6 +48,11 @@ This is the languages and tools I use the most and have most knowledge about.
 ![Ludvig's github stats](https://github-readme-stats.vercel.app/api?username=luigi989&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigi989&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,sass)](https://github.com/luigi989/github-readme-stats)
 
+## Contact me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludde.lindahl@gmail.com) <!-- Gmail -->
+[![Facebook Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/ludvig.lindahl.1) <!-- Facebook Messenger -->
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/46705789618) <!-- Whatsapp -->
+
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
