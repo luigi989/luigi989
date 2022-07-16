@@ -14,10 +14,9 @@ This is the languages and tools I use the most and have most knowledge about.
     ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
 -->
 
-### Languages
-
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=darkgreen&style=flat&logo=react&logoColor=white) <!-- React -->
-![](https://img.shields.io/static/v1?label=Code&message=Java&color=darkgreen&style=flat&logo=java) <!-- Java -->
+![](https://img.shields.io/static/v1?label=Code&message=Java&color=darkgreen&style=flat&logo=Java) <!-- Java -->
+![](https://img.shields.io/static/v1?label=Code&message=Kotlin&color=darkgreen&style=flat&logo=kotlin&logoColor=white) <!-- Kotlin -->
 ![](https://img.shields.io/static/v1?label=Code&message=Flutter&color=orange&style=flat&logo=Flutter&logoColor=white) <!-- Flutter -->
 ![](https://img.shields.io/static/v1?label=Code&message=Dart&color=orange&style=flat&logo=Dart&logoColor=white) <!-- Dart -->
 
@@ -50,14 +49,3 @@ This is the languages and tools I use the most and have most knowledge about.
 
 ## Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludde.lindahl@gmail.com) <!-- Gmail -->
-
-<!--
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
- -->
