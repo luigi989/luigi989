@@ -17,6 +17,7 @@ This is the languages and tools I use the most and have most knowledge about.
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=darkgreen&style=flat&logo=react&logoColor=white) <!-- React -->
 ![](https://img.shields.io/static/v1?label=Code&message=Java&color=darkgreen&style=flat&logo=Java) <!-- Java -->
 ![](https://img.shields.io/static/v1?label=Code&message=Kotlin&color=darkgreen&style=flat&logo=kotlin&logoColor=white) <!-- Kotlin -->
+
 ![](https://img.shields.io/static/v1?label=Code&message=Flutter&color=orange&style=flat&logo=Flutter&logoColor=white) <!-- Flutter -->
 ![](https://img.shields.io/static/v1?label=Code&message=Dart&color=orange&style=flat&logo=Dart&logoColor=white) <!-- Dart -->
 
