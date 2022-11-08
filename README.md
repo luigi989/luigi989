@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 ## :notebook: About me
 Hello! I am currently studying towards a Master in Computer Science. I also has some small code side projects in areas that interests me. 
 For now my current project that I try to finish is a portfolio website where I showcase my experience and projects.
