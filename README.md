@@ -6,14 +6,6 @@ For now my current project that I try to finish is a portfolio website where I s
 ## :rocket: Languages & Tools
 This is the languages and tools I use the most and have most knowledge about. Click on the icons for links to each language or tool.
 
-<!-- Simple-icons 
-  Space - %20
-  Simple layout without icon
-    ![](https://img.shields.io/badge/Editor%20-Visual%20Studio%20Code-red)
-  Simple layout with icon
-    ![](https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=red&style=flat&logo=visualstudiocode)
--->
-
 [![](https://img.shields.io/static/v1?label=Code&message=React&color=darkgreen&style=flat&logo=react&logoColor=white)](https://reactjs.org) <!-- React -->
 [![](https://img.shields.io/static/v1?label=Code&message=Java&color=darkgreen&style=flat&logo=Java)](https://www.java.com/en/) <!-- Java -->
 [![](https://img.shields.io/static/v1?label=Code&message=Kotlin&color=darkgreen&style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/) <!-- Kotlin -->
