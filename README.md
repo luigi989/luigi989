@@ -27,7 +27,7 @@ This is the languages and tools I use the most and have most knowledge about. Cl
 [![](https://img.shields.io/static/v1?label=Tools&message=Git&color=lightblue&style=flat&logo=git&logoColor=white)](https://git-scm.com/) <!-- Git -->
 [![](https://img.shields.io/static/v1?label=Shell&message=Bash&color=lightgreen&style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) <!-- Bash -->
 
-[![](https://img.shields.io/static/v1?label=OS&message=Linux&color=purple&style=flat&logo=ubuntu&logoColor=white)](https://kubuntu.org/) <!-- Linux -->
+[![](https://img.shields.io/static/v1?label=OS&message=Kubuntu&color=purple&style=flat&logo=ubuntu&logoColor=white)](https://kubuntu.org/) <!-- Linux -->
 [![](https://img.shields.io/static/v1?label=OS&message=Windows&color=purple&style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/) <!-- Windows -->
 
 ## :books: Other interests 
