@@ -8,6 +8,7 @@ For now my current project that I try to finish is a portfolio website where I s
 This is the languages and tools I use the most and have most knowledge about. Click on the icons for links to each language or tool.
 
 [![](https://img.shields.io/static/v1?label=Code&message=React&color=darkgreen&style=flat&logo=react&logoColor=white)](https://reactjs.org) <!-- React -->
+[![](https://img.shields.io/static/v1?label=Code&message=Vue&color=darkgreen&style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/) <!-- Vue -->
 [![](https://img.shields.io/static/v1?label=Code&message=Java&color=darkgreen&style=flat&logo=Java)](https://www.java.com/en/) <!-- Java -->
 [![](https://img.shields.io/static/v1?label=Code&message=Kotlin&color=darkgreen&style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/) <!-- Kotlin -->
 [![](https://img.shields.io/static/v1?label=Code&message=Javascript&color=darkgreen&style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/) <!-- Javascript -->
